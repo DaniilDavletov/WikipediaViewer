@@ -7,11 +7,11 @@ body{
 }
 .header{
 	padding-bottom: 50px;
-	font-size: 80px;
+	font-size: 50px;
 }
 
 .bigLetter{
-	font-size: 100px;
+	font-size: 70px;
 }
 
 a:link, a:visited, a:hover, a:active{
