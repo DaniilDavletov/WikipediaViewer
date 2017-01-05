@@ -9,3 +9,8 @@
 	border-style: solid;
 	border-color: red;
 }
+
+a:link, a:visited, a:hover, a:active{
+	color: hsl(0, 0%, 10%);
+	text-decoration: none;
+}
