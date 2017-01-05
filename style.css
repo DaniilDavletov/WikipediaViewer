@@ -1,16 +1,34 @@
-.container{
-	padding-top: 12%;
-}
-.header{
-	padding-bottom: 20px;
+body{
+	background-color: #F6F6F6;
 }
 
-.border{
-	border-style: solid;
-	border-color: red;
+.container{
+	padding-top: 10%;
+}
+.header{
+	padding-bottom: 50px;
+	font-size: 80px;
+}
+
+.bigLetter{
+	font-size: 100px;
 }
 
 a:link, a:visited, a:hover, a:active{
 	color: hsl(0, 0%, 10%);
 	text-decoration: none;
+}
+
+.block{
+	margin: 10px 0px;
+	padding: 15px 30px;
+	/*border-radius: 10px;*/
+	text-align: left;
+	font-family: Arial;
+	font-size: 18px;
+	background-color: #FFF;
+}
+
+.title{
+	font-weight: bold;
 }
